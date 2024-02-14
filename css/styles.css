@@ -1,8 +1,6 @@
 body{
     background-color: aquamarine;
     color: rgb(0, 0, 0);
-    text-shadow: 10px 25px white;
-    line-height: 40px;
 }
 div{
     background-color: aqua;
@@ -12,6 +10,6 @@ div{
 span{
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    font-weight: bolder;
     font-style: italic;
 }
